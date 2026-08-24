@@ -1,0 +1,5 @@
+{
+    "name": "sou-frisk-torture-chamber-windows",
+    "main": "electron-main.js",
+    "version": "1.0.0"
+}
